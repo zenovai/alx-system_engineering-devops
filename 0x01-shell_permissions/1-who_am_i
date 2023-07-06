@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Use is : $(whoami)"
+echo 'User is : $(whoami)' 
