@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'User is : $(whoami)' 
+echo "The current user is: $(whoami)"
